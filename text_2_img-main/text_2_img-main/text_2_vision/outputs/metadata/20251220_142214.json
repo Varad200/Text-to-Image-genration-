@@ -1,0 +1,18 @@
+{
+  "timestamp": "20251220_142213",
+  "model_id": "runwayml/stable-diffusion-v1-5",
+  "device": "cpu",
+  "prompt": "cinematic lighting, ultra detailed, 35mm film, shallow depth of field, A Cat",
+  "negative_prompt": "",
+  "steps": 30,
+  "guidance_scale": 7.5,
+  "seed": 42,
+  "width": 512,
+  "height": 512,
+  "num_images": 1,
+  "lora_path": "",
+  "lora_scale": 0.7,
+  "saved_images": [
+    "outputs/images/20251220_142213_0.png"
+  ]
+}
